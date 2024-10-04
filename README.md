@@ -18,3 +18,4 @@ Eu sou aluna de *pensamento computacional*, do professor Richard, do colégio Do
 
 •Gosto de jogar vôlei(por mais que não jogue bem)
 
+[jogo do pong](https://github.com/Kamilabiernaski/Kamila.biernaski/blob/main/ping_pong_2024_10_04_22_00_52.zip)
